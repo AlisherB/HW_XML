@@ -1,0 +1,6 @@
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\XML\Task1\bin\Debug\Task1.exe.config
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\XML\Task1\bin\Debug\Task1.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\XML\Task1\bin\Debug\Task1.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\XML\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\XML\Task1\obj\Debug\Task1.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\XML\Task1\obj\Debug\Task1.pdb
